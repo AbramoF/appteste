@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1028131250421",
+    "project_id": "abramoapp1",
+    "storage_bucket": "abramoapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028131250421:android:531eb4473b31b19e2de5bc",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028131250421-h1rga14hvngu630ir50rvlloj4c2dsc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD4WPol9Xegf0czxG4Abg2kwxaBBNzCcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028131250421-h1rga14hvngu630ir50rvlloj4c2dsc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028131250421-inl84aolf62sbl2vd5sv906mn00874u8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
